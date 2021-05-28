@@ -120,7 +120,7 @@ rtp://@239.1.1.35:8184
 #EXTINF:-1, group-title="KNOWLEDGE", - [203] Crime + Investigation $
 rtp://@239.1.1.59:8328
 
-#EXTINF:-1, group-title="KNOWLEDGE", - [204] CGTN Documentary
+#EXTINF:-1, group-title="KNOWLEDGE", - [204] CGTN Documentary $
 rtp://@239.1.1.121:8700
 
 #EXTINF:-1, group-title="KNOWLEDGE", - [205] History $
